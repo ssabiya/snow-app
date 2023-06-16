@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="IAM Expat Test">db9f634c972f6110d10c3931f053af40</sc_cat_item>
+        <sc_category display_value="Identity Management">5218fb7b979f2110d10c3931f053aff6</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-16 05:13:35</sys_created_on>
+        <sys_id>d2ffa74c972f6110d10c3931f053af84</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Identity Management.IAM Expat Test</sys_name>
+        <sys_package display_value="Great-App" source="x_953538_great_app">e7f29c8097236110d10c3931f053afeb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Great-App">e7f29c8097236110d10c3931f053afeb</sys_scope>
+        <sys_update_name>sc_cat_item_category_d2ffa74c972f6110d10c3931f053af84</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-16 05:13:35</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>
